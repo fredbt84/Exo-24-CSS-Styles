@@ -7,7 +7,7 @@ Indentez proprement le code proposé et assurez vous que le code HTML soit valid
 
 ## Utilisation de classes
 
-Appliquez les classes suivantes aux groupements de colonnes dans le tableau :
+Appliquez les classes suivantes aux groupements de colonnes dans le tableau:
 
     classe produit aux éléments de la première colonne
     classe reference aux éléments de la deuxième colonne

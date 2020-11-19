@@ -36,7 +36,8 @@ De préférence avec des sélecteurs combinateurs quand c'est possible
 
 ### Appliquer les styles suivants :
 
-    1. L'ensemble du document doit être dans l'ordre de préférence de police Verdana, Arial, et proposer une famille de police par défaut.
+    1. L'ensemble du document doit être dans l'ordre de préférence de police Verdana, Arial, et proposer une famille de
+     police par défaut.
     
     2. Les titres doivent être de police Arial ou proposer une famille de polices par défaut.
     

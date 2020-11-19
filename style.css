@@ -1,1 +1,57 @@
+.produit {
+    font-style: italic;
+    color: coral;
+    text-transform: capitalize;
+}
+
+.reference {
+    color: black;
+    font-style: italic;
+    background-color: #C0C0C0;
+}
+
+.general {
+    color:blue;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+
+#a3 {
+    color:blue;
+    font-size: small;
+    background-color: #C0C0C0;
+}
+
+#a1 > h3 {
+   color:red;
+   text-transform: uppercase;
+}
+
+.lettre {
+    color: green;
+    font-weight: bold;
+    font-family: "fantasy";
+}
+
+body {
+    font-family:"Verdana","Arial",sans-serif;
+    background-color: white;
+}
+
+h1,h2,h3 {
+    font-family: "Arial",sans-serif;
+    text-decoration-line: underline;
+}
+
+.entete {
+    font-variant: small-caps;
+}
+
+blockquote > p {
+    padding-left: 20px;
+}
+
+ul {
+    list-style-type: circle;
+}
 
